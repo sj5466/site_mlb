@@ -1,0 +1,17 @@
+/* reset */
+html,body { height:100%; }
+body,div,p,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,fieldset,button,input { margin:0; padding:0; }
+h1,h2,h3,h4 { font-size:12px; }
+ul,li,ol { list-style:none; }
+img,fieldset,iframe { border:0; }
+img { vertical-align:top; }
+table { border-collapse:collapse; }
+
+/*base*/
+body{
+    font-family: 'Libre Bodoni', serif,'Noto Sans KR', sans-serif;
+    font-size: 16px; font-weight: 300;
+    color: #333;
+}
+a{color: #333; text-decoration: none;}
+.blind{position: absolute; top: -9999px;}
